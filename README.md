@@ -12,16 +12,16 @@ file util - removing, deleting, duplicate
 
 
 # git
-alias gs='git status'
-alias ga='git add'
-alias gc='git commit -m'
-alias gp='git push'
-alias gr='git remote'
-alias gcb='git checkout -b'
-alias gcl='git clone'
+alias gs='git status'  
+alias ga='git add'  
+alias gc='git commit -m'  
+alias gp='git push'  
+alias gr='git remote'  
+alias gcb='git checkout -b'  
+alias gcl='git clone'  
 
 # system
-alias lsh='ls -la'
+alias lsh='ls -la'  
 alias work='cd ~/Documents/work/'
 alias net?='ping -c 3 google.com'
 alias sau='sudo apt-get update'
