@@ -3,6 +3,7 @@ ctrl + , = short cut to settings
 ctrl + Shift + j = toggle vscode terminal  
 ctrl + T = run test (specify function and then shortcut)  
 ctrl + shift + T = run previous test  
+alt + T = run suite test (all testing)
 alt + enter + enter = go to definition  
 ctrl + shift + ; = search a method in all files  
 ctrl + ; = search method in current class  
