@@ -26,7 +26,8 @@ alias lsh='ls -la'
 alias work='cd ~/Documents/work/'  
 alias net?='ping -c 3 google.com'  
 alias sau='sudo apt-get update'  
-alias dl='cd ~/Downloads'  
+alias dl='cd ~/Downloads' 
+alias dt='cd ~/Desktop'  
 alias short='vi ~/.bashrca'  
 
 # php artisan
